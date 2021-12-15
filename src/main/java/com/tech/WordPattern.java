@@ -18,6 +18,8 @@ public class WordPattern {
 
 	public static void main(String[] args) {
 
+		System.out.println("Word Patter is below :");
+		
 		WordPattern wp = new WordPattern();
 		wp.patternWord();
 	}
