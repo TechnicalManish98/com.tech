@@ -18,7 +18,7 @@ public class WordPattern {
 
 	public static void main(String[] args) {
 
-		System.out.println("Word Patter is below :");
+		System.out.println("Word Pattern is below :");
 		
 		WordPattern wp = new WordPattern();
 		wp.patternWord();
