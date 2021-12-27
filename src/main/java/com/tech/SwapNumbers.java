@@ -8,7 +8,7 @@ public class SwapNumbers {
 		int b = 54;
 
 		a = a + b;
-		b = a - (a - b); // 20
+		b = a - (a - b); 
 		a = a - b;
 
 		System.out.println(a + " - " + b);
